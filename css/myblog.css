@@ -1,0 +1,28 @@
+#nav{
+
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#card-info-btn{
+	    border-radius: 20px;
+}
+
+.button--animated:before{
+	border-radius: 20px;
+}
+
+#sidebar-menus.open {
+	border-bottom-left-radius: 25px;
+	border-top-left-radius: 25px;
+}
+
+
+#page-header{
+	border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#page-header.post-bg:before{
+	border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
