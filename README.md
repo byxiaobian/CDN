@@ -1,2 +1,1 @@
-# CDN
-jsdelivr CDN
+wtnl.xyz
